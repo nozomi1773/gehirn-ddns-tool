@@ -25,7 +25,7 @@ $ cd gehirn-ddns-tool/cmd && go build . && mv cmd /root/tools/ddns
 * Run Test this command
 ```
 $ ./ddns -f ~/tools/ddns-config.yaml
-``
+```
 * Set Cron
 ```
 $ crontab -e
